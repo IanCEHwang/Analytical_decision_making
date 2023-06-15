@@ -8,7 +8,9 @@ You run an online dating app that specializes in matching people based on compat
 
 
 When you create a match, the value of the match is equal to the sum of the products of the 5 different activity scores of the two individuals. For example, if you match Laura and Ralph, the match score would be:\
-Score(Laura & Ralph) = $0\times0+2\times2+(1)\times2+0\times2+2\times(-1) = 0+4- 2+0-2 = 0$
+
+
+<center>Score(Laura & Ralph) = $0\times0+2\times2+(1)\times2+0\times2+2\times(-1) = 0+4- 2+0-2 = 0$</center>
 
 
  1. Assume all of the individuals in the data set would like to be matched to people of the opposite gender. What matches would you choose to maximize the aggregate match score?
